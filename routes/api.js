@@ -4,9 +4,9 @@ var path = require('path');
 var mysql = require('../public/javascripts/db');
 
 
-console.log('****************************');
-console.log('***         READY        ***');
-console.log('****************************');
+console.log('*****************************');
+console.log('***       API READY       ***');
+console.log('*****************************');
 
 
 

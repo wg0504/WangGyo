@@ -4,9 +4,9 @@ class mysql {
         this.pool = mysql.createPool({
             connectionLimit: 100,
             host: 'localhost',
-            user: 'thecal',
-            password: 'Thecal11@@',
-            database: 'THECAL',
+            user: 'swg',
+            password: 's05w04g',
+            database: 'SWG',
             dateStrings: 'date'
         });
     }
